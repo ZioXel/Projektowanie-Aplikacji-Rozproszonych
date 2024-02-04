@@ -1,6 +1,6 @@
 # Integracja z Serwisami SOAP i RESTful
 
-Ten skrypt w języku Python demonstruje integrację z usługami SOAP i RESTful w celu pobierania informacji o krajach, ciekawostekach dotyczących liczb, konwersji temperatury oraz szczegółach dotyczących programów telewizyjnych.
+Kod wykożystujący serwisy typu SOAP i REST api.
 
 ## Wykorzystane Usługi
 
@@ -45,8 +45,4 @@ Ten skrypt w języku Python demonstruje integrację z usługami SOAP i RESTful w
 ### Uruchamianie Skryptu
    - Uruchom skrypt i postępuj zgodnie z instrukcjami, aby podać nazwę kraju, liczbę i temperaturę w stopniach Celsjusza.
 
-## Zależności
-   - Python 3.x
-   - Biblioteka Requests (`pip install requests`)
 
-Zachęcam do eksploracji i modyfikacji skryptu według własnych potrzeb!
